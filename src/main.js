@@ -1,6 +1,6 @@
 import "./assets/styles/styles.scss";
 import "./main.scss";
-import { displayProduits } from "./components/produits/index.js";
+import { displayProduits } from "./modules/produits/index.js";
 
 import { produits as objetProduits } from "../data/products.js";
 
